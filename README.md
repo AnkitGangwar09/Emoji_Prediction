@@ -5,9 +5,7 @@ Created an emoji prediction model using RNNs — feeding in text and letting the
 Given a sentence, predict one of five emojis  ❤️ 😂 😍 😢 😡.
 
 # Dataset 
-Pre‑labelled sentences (train/test split).
-
-### Framework --> PyTorch 2.x
+Pre‑labelled sentences (train/test split), also downloaded glove file form link-->  http://nlp.stanford.edu/data/glove.6B.zip
 
 ## Key Concepts
 Tokenisation, Embedding layer, Bi‑LSTM, Softmax.
