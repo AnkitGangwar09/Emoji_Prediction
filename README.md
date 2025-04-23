@@ -1,10 +1,9 @@
 # Emoji_Prediction
-Created an emoji prediction model using RNNs — feeding in text and letting the model decide the best-fitting emoji.
 
-# Goal
+## Goal
 Given a sentence, predict one of five emojis  ❤️ 😂 😍 😢 😡.
 
-# Dataset 
+## Dataset 
 Pre‑labelled sentences (train/test split), also downloaded glove file form link-->  http://nlp.stanford.edu/data/glove.6B.zip
 
 ## Key Concepts
